@@ -3,11 +3,11 @@
 This repository contains code to preprocess data, train a deep neural network (DNN) model for regression, and convert the trained model to TensorFlow Lite format. The model predicts multiple target variables based on input features.
 
 ### Requirements
-- Python 
-- tensorflow
-- pandas
-- scikit-learn
-- matplotlib
+- `Python` 
+- `pandas`: For data manipulation and analysis.
+- `tensorflow`: For building and training the neural network.
+- `scikit-learn`: For preprocessing and splitting the data.
+- `matplotlib`: For plotting the training and validation loss.
 
 ## Installation
 #### Clone this repository:
@@ -18,4 +18,4 @@ This repository contains code to preprocess data, train a deep neural network (D
     pip install -r requirements.txt
 
 
-#### Newest Repo, 2024.
+#### Re-uploaded from older Repo. Newest Repo, 2024.
