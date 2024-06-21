@@ -6,9 +6,7 @@ This repository contains code to preprocess data, train a deep neural network (D
 - Python 
 - tensorflow
 - pandas
-- numpy
 - scikit-learn
-- joblib
 - matplotlib
 
 ## Installation
